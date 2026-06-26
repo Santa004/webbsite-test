@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f2933"/>
+      <stop offset="1" stop-color="#3a4754"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <g stroke="#2f7dc4" stroke-width="2" opacity="0.18">
+    <path d="M0 600 L300 480 L600 560 L900 440 L1200 540"/>
+    <path d="M0 680 L300 560 L600 640 L900 520 L1200 620"/>
+  </g>
+  <g transform="translate(600,330)" fill="none" stroke="#5aa6e6" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" opacity="0.9">
+    <path d="M-80 10 q80 50 160 0 z"/><path d="M0 10 V-50 L55 -10"/>
+  </g>
+  <text x="600" y="500" text-anchor="middle" font-family="'Inter Tight',Arial,sans-serif" font-size="56" font-weight="700" fill="#ffffff">Båttransport & vinterförvaring</text>
+  <text x="600" y="548" text-anchor="middle" font-family="'Inter Tight',Arial,sans-serif" font-size="24" font-weight="400" fill="#5aa6e6">Säker hantering av båtar</text>
+  <text x="600" y="760" text-anchor="middle" font-family="'Inter Tight',Arial,sans-serif" font-size="18" letter-spacing="2" fill="#9fb3c4">SA FRAKT &amp; ENTREPRENAD</text>
+</svg>
