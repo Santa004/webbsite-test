@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="48" viewBox="0 0 200 48">
+  <g fill="none" fill-rule="evenodd">
+    <rect x="0" y="9" width="30" height="30" rx="5" fill="#5aa6e6"/>
+    <path d="M7 31l6-9 5 6 4-7 5 10z" fill="#ffffff" opacity="0.92"/>
+    <text x="40" y="24" font-family="'Inter Tight',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">SA FRAKT</text>
+    <text x="40" y="40" font-family="'Inter Tight',Arial,sans-serif" font-size="9" letter-spacing="1.5" font-weight="500" fill="#5aa6e6">&amp; ENTREPRENAD</text>
+  </g>
+</svg>
